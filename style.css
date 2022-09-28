@@ -1,0 +1,16 @@
+body{
+    background-image: url(gradingSystemPlaylist/services.jpg);
+    background-position: center;
+}
+#houseDiv{
+    width: 600px;
+    height: 300px;
+    background-color: antiquewhite;
+    opacity: 0.9;
+}
+#userDisplay{
+    width: 400px;
+    height: 80px;
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
