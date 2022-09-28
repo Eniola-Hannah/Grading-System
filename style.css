@@ -17,3 +17,14 @@ body{
     background-color: gray;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+@media only screen and (max-width:800px) {
+    #houseDiv{
+        width: 310px;
+        height: 400px;
+    }
+    #userDisplay{
+        width: 250px;
+        height: 70px;
+    }
+}
