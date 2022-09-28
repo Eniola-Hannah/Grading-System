@@ -8,9 +8,12 @@ body{
     background-color: antiquewhite;
     opacity: 0.9;
 }
+#button{
+    background-color: gray;
+}
 #userDisplay{
     width: 400px;
     height: 80px;
-    background-color: white;
+    background-color: gray;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
