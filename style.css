@@ -1,5 +1,5 @@
 body{
-    background-image: url(gradingSystemPlaylist/services.jpg);
+    background-image: url(media/services.jpg);
     background-position: center;
 }
 #houseDiv{
@@ -20,11 +20,11 @@ body{
 
 @media only screen and (max-width:800px) {
     #houseDiv{
-        width: 300px;
-        height: 400px;
+        width: 45vh;
+        height: 55vh;
     }
     #userDisplay{
-        width: 250px;
-        height: 70px;
+        width: 40vh;
+        height: 17vh;
     }
 }
